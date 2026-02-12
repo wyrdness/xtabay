@@ -1,0 +1,48 @@
+{
+  "category": "ENTITY_SPIRIT",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/xtabay",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "xtabay",
+    "name": "Xtabay",
+    "aliases": [
+      {
+        "name": "Xtabai"
+      },
+      {
+        "name": "Xtab"
+      },
+      {
+        "name": "Ceiba Woman"
+      }
+    ],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Seductress spirit",
+    "tags": [
+      "spirit",
+      "entity",
+      "folklore",
+      "supernatural"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Mayan spirit of a beautiful woman who lures men to their death in the jungle",
+      "full": "Mayan spirit of a beautiful woman who lures men to their death in the jungle"
+    }
+  }
+}
