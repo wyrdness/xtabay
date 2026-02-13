@@ -1,9 +1,8 @@
 {
-  "category": "ENTITY_SPIRIT",
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/xtabay",
     "maintainers": [
       {
@@ -20,29 +19,108 @@
   "phenomenon": {
     "id": "xtabay",
     "name": "Xtabay",
-    "aliases": [
-      {
-        "name": "Xtabai"
-      },
-      {
-        "name": "Xtab"
-      },
-      {
-        "name": "Ceiba Woman"
-      }
-    ],
+    "aliases": [],
     "category": "ENTITY_SPIRIT",
     "subcategory": "Seductress spirit",
     "tags": [
-      "spirit",
-      "entity",
       "folklore",
-      "supernatural"
+      "mythology"
     ],
     "status": "documented",
     "description": {
-      "summary": "Mayan spirit of a beautiful woman who lures men to their death in the jungle",
-      "full": "Mayan spirit of a beautiful woman who lures men to their death in the jungle"
+      "summary": "Mayan spirit of a beautiful woman who lures men to their death in the jungle This phenomenon represents an important part of Mayan folklore and cultural heritage, with documented accounts and traditions spanning generations.",
+      "full": "Mayan spirit of a beautiful woman who lures men to their death in the jungle This phenomenon represents an important part of Mayan folklore and cultural heritage, with documented accounts and traditions spanning generations."
+    },
+    "etymology": {
+      "origin": "| Mayan |",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
-  }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Seductress spirit",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "| Mayan |",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "| Mayan |",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
